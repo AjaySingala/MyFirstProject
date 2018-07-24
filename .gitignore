@@ -1,2 +1,3 @@
-D:\RevatureDotNet\ValueRefTypes\bin\
-D:\RevatureDotNet\ValueRefTypes\obj\
+ValueRefTypes\bin\*
+ValueRefTypes\obj\*
+
